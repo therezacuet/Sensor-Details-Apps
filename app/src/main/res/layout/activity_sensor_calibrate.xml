@@ -52,7 +52,7 @@
             android:textSize="16sp"
             android:textStyle="bold"
             android:gravity="center"
-            android:text="Shaker Demo"/>
+            android:text="Accelaration Value"/>
         <TableLayout
             android:paddingTop="10dip"
             android:layout_width="fill_parent"
